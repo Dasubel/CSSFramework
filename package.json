@@ -1,0 +1,24 @@
+{
+  "name": "bootstrapmocksassignment",
+  "version": "1.0.0",
+  "description": "For this exercise, you will be using your knowledge of HTML and Twitter Bootstrap to code the mockups inside this repository.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gSchool/BootstrapMocksAssignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gSchool/BootstrapMocksAssignment/issues"
+  },
+  "homepage": "https://github.com/gSchool/BootstrapMocksAssignment#readme",
+  "dependencies": {
+    "live-server": "^1.1.0"
+  }
+}
